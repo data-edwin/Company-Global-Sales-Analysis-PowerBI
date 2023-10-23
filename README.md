@@ -1,8 +1,8 @@
-# Global Sales Analysis of a Company
+## Global Sales Analysis of a Company
 
 Using Power BI, I prepared, analyzed and visualized the data of a company operating globally.
 
-![Dashboard]()
+![Dashboard](https://github.com/uedwinc/Company-Global-Sales-Analysis-PowerBI/blob/main/Sales%20Analysis.png)
 
 This dashboard shows company performance over certain period of time and different regions. It gives insight to the best selling products and the highest paying customers as well as revenue size of different countries thus helping to make best advertisement decisions.
 
@@ -20,4 +20,4 @@ This dashboard shows company performance over certain period of time and differe
 
 ### DAX Functions Used
 
-[Dax Functions]()
+[Dax Functions](https://github.com/uedwinc/Company-Global-Sales-Analysis-PowerBI/blob/main/DAX-Functions.md)
